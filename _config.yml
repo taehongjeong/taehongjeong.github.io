@@ -3,21 +3,21 @@ repository: sproogen/resume-theme
 # favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Taehong Jeong
+title: PhD Student (5th year in Integrated Program) / Technical Research Personnel (military service)
+email: enjoyjade43@ajou.ac.kr
+website: taehongjeong.github.io
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username: facespics
+github_username:  taehongjeong
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+instagram_username: frrydggy.hng
+linkedin_username: taehongjeong
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
